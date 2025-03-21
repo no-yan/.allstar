@@ -2,4 +2,5 @@ optConfig:
   optOutStrategy: false
   optInRepos:
    - discord-bot
+   - trading-bot
   disableRepoOverride: true
